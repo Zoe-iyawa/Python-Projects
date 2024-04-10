@@ -97,8 +97,8 @@ import matplotlib.pyplot as plt    # import matplot
 import numpy as np
 import pandas as pd
 
-df['sales'].plot(kind = 'bar', title = 'Monthly Sales', ylabel = 'Sales', color = ['purple', 'blue', 'green'])  # create a bar chart visualization with multiple colours.
+df['sales'].plot(kind = 'bar', title = 'Monthly Sales', ylabel = 'Sales', color = ['purple', 'blue', 'green'])  # created a bar chart visualization with multiple colours.
 ```
-Link to Graph here: ![Graph](/Users/zoephilipiyawa/PycharmProjects/pythonProject2/monthly_sales.png)
+ ![image](https://github.com/Zoe-iyawa/CFG_Python-Project/blob/main/monthly_sales.png)
 
 
