@@ -1,2 +1,0 @@
-# CFG_Python-Project
-I took part in Code First Girls Kickstarter course where I learnt the fundamentals of programming through problem-solving in Python. For my final project, I used Panda library in Jupyter notebook to perform data analysis on a sales spreadsheet and also matplotlib for data visualization. I added extra code to the project which was not part of the compulsory requirement to pass the course.
