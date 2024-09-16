@@ -1,6 +1,6 @@
 # Titanic Dataset Analysis
 
-Welcome to the Titanic Dataset Analysis project! This project contains a detailed analysis of the Titanic dataset using Python libraries such as Pandas and Matplotlib. 
+Welcome to the Titanic Dataset Analysis project! This project contains a detailed analysis of the Titanic dataset using Python libraries such as Pandas and Matplotlib. Link to dataset:https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Introduction
 
